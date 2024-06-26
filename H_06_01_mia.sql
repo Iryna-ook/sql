@@ -5,7 +5,6 @@ CREATE TABLE interbank_index_ua_history
               value   NUMBER,
               special VARCHAR2(100) );
               
-              
 --SET DEFINE OFF ; --один раз запустити
 
 --Створення view interbank_index_ua_v
